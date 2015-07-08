@@ -1,0 +1,15 @@
+have a margin on each side and size the content into it. fill in spacing between content and viewport.
+
+6 - 8 responsive steps
+
+could use a logo in the top left because people will look there
+	Could be Slade Baumann = Build Your Future (need a tagline)
+	
+Make is so that when you scroll down, it does scroll down. Except now the nav bar moves to the top with the scroll. Maybe the current sections navbar button is highlighted. Then the title of the project is in the extra space on the sides (like the design shows).
+
+
+Navbar is now fixed. I'm thinking I can have the navbar fade out when the content headers show up.
+Also, Bram sent me some code to have the navbar choices highlighted.
+
+	
+U1mUPu0q
